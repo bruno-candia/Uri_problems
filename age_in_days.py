@@ -1,6 +1,6 @@
 idade = int(input())
 
-anos  = idade//365
+anos = idade//365
 idade = idade - 365*anos
 
 meses = idade//30
